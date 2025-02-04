@@ -1,1 +1,9 @@
-# learning_godot
+﻿# ENGL-3500-Homework-4
+
+Coursework for ENGL 3500: Literary Games taught by Professors Jason Bennett (jcb2h) and Brad Pasanek (bmp7e) at the University of Virginia
+
+# Reflection
+
+I think Device-6 is one of the most creative and fun uses of the mobile device as a medium of play. In the a mobile game market saturated with idle games and puzzle games meant to squeeze the players out of their money through monetary tricks and currency obfuscation, Device-6 is a significant breath of fresh air. The medium of the mobile device itself is very applicable as the device the user plays on becomes part of the narrative and the story itself. Rather than being simply a medium of showing the user the story, the device itself becomes part of the world as the user flips it around, reads from it, and uses it to solve puzzles just as previous players had used their device.   
+
+In this sense, the player action itself progresses the narrative, and the player choices (or lack thereof?) are what ultimately drive the narrative forward, and it CANNOT be consumed otherwise! Even though I had to watch a playthrough of Device-6, to say that I experienced the narrative would be analagous to saying that I watched a movie by reading through the whole screenplay. Yes, I could understand the plot and what happens, but I miss a crucial experience; action. This ties into the reading where Galloway believes that games start to pull away from other previous forms of media through their interaction. Something I wonder though, is that if previous forms of media that had interactivity would then overlap with games themselves? Think of perhaps an old timey Shakespearean play where the audience throws a tomato at the performer, and they respond and it changes the play. Or perhaps a stand-up comedy routine where the comic interacts with the audience. Those two performance arts and games share a common theme of the consumer interacting with the medium which then changes based on their reaction. 
